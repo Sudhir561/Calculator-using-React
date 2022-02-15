@@ -2,6 +2,8 @@
 
 Calculator is built using javascript library React and pure css is used for all styling.
 
+Visit to App-[click here](https://calculator-usingreact.herokuapp.com/)
+
 ## Picture 
 
 Light-mode
