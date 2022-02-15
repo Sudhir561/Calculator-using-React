@@ -20,7 +20,8 @@ Dark-mode
 
 -There are two mode available - dark-mode and light-mode
 -validation is done in this project (i.e- giving input from keyboard other than number will not allow or can't use again a operator(i.e-*,/) just after a existing operator  )
--can give input either by keyboard or by keypad from calculator app.
+can give input either by keyboard or by keypad from calculator app.
+- can see your history in calaculator app
 
 
 
